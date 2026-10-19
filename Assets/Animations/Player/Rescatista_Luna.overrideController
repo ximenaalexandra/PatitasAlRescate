@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rescatista_Luna
+  m_Controller: {fileID: 9100000, guid: f5ef349171d3bc04e9b35896af5d1969, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e3a0d5d720c69bb4687b6fb5832e03b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 61a05fdb558fe024db27c1eeca8b4376, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b8aa91d09983b2c408a0a2dedbfe09b2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d1e739e33ef3a9b4b862f9bd2fae021b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: beb0ced36cfb7b84dac71ef517c06304, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 71f5097006b6dac4aaec2dba88e60c21, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c85601eb7180db347bb1448d278c349f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 37bad270d462dcb4a844667e3a7d750c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4458cb2c03d79d8499e53538abdb7359, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d8137bd9fbcf5594bbd145cfc2b74267, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2e36962ad491db941aa8bc9505112f18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1e3c54549f468247961f2fc6ae469ec, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cc8c4828ed5f7434aaf5e0556e95d10e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: acb9a619dbb9da347a7474e6d4aff76e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af324065219b6f04f9b053bb397c12ab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9ef1259acb00be459a39879886790ff, type: 2}

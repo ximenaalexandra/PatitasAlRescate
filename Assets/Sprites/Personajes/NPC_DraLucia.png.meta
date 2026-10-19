@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: 2d457cf0de148874ca74e1e6ab9e9492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5351708506691860482
+    second: NPC_DraLucia_0
+  - first:
+      213: 3604462321536654466
+    second: NPC_DraLucia_1
+  - first:
+      213: 7118472707423824760
+    second: NPC_DraLucia_2
+  - first:
+      213: 3171028778679114886
+    second: NPC_DraLucia_3
+  - first:
+      213: -8685384025053075617
+    second: NPC_DraLucia_4
+  - first:
+      213: -4634614010943326586
+    second: NPC_DraLucia_5
+  - first:
+      213: -8813873928972704413
+    second: NPC_DraLucia_6
+  - first:
+      213: 2336578624890136098
+    second: NPC_DraLucia_7
+  - first:
+      213: -3512871540683318967
+    second: NPC_DraLucia_8
+  - first:
+      213: -7206626118086721926
+    second: NPC_DraLucia_9
+  - first:
+      213: 7405806921911695669
+    second: NPC_DraLucia_10
+  - first:
+      213: 7800174786983155150
+    second: NPC_DraLucia_11
+  - first:
+      213: 5147167562411563825
+    second: NPC_DraLucia_12
+  - first:
+      213: 8892640602439797475
+    second: NPC_DraLucia_13
+  - first:
+      213: -4154258761517199735
+    second: NPC_DraLucia_14
+  - first:
+      213: 4504356552071647350
+    second: NPC_DraLucia_15
+  - first:
+      213: -4072452945400717602
+    second: NPC_DraLucia_16
+  - first:
+      213: -8303682099540530949
+    second: NPC_DraLucia_17
+  - first:
+      213: 4023772511082623719
+    second: NPC_DraLucia_18
+  - first:
+      213: -1098135177289197164
+    second: NPC_DraLucia_19
+  - first:
+      213: 2734182457499937918
+    second: NPC_DraLucia_20
+  - first:
+      213: -6534329126466108534
+    second: NPC_DraLucia_21
+  - first:
+      213: -1746015293934693897
+    second: NPC_DraLucia_22
+  - first:
+      213: -3488865500652524812
+    second: NPC_DraLucia_23
+  - first:
+      213: -3198663121420781199
+    second: NPC_DraLucia_24
+  - first:
+      213: -6599816321017085857
+    second: NPC_DraLucia_25
+  - first:
+      213: -413876419003304992
+    second: NPC_DraLucia_26
+  - first:
+      213: 6061888658331538512
+    second: NPC_DraLucia_27
+  - first:
+      213: 3004327772919805298
+    second: NPC_DraLucia_28
+  - first:
+      213: -6762791666699556503
+    second: NPC_DraLucia_29
+  - first:
+      213: -136473545654584622
+    second: NPC_DraLucia_30
+  - first:
+      213: -3642321439218680724
+    second: NPC_DraLucia_31
+  - first:
+      213: 482075184755883607
+    second: NPC_DraLucia_32
+  - first:
+      213: -3932909307513595281
+    second: NPC_DraLucia_33
+  - first:
+      213: 592466160926008213
+    second: NPC_DraLucia_34
+  - first:
+      213: 6372412325808726195
+    second: NPC_DraLucia_35
+  - first:
+      213: -8798104229145351839
+    second: NPC_DraLucia_36
+  - first:
+      213: 3005819616286719256
+    second: NPC_DraLucia_37
+  - first:
+      213: 792677319996098048
+    second: NPC_DraLucia_38
+  - first:
+      213: -8434390420589874284
+    second: NPC_DraLucia_39
+  - first:
+      213: -1327544528507319388
+    second: NPC_DraLucia_40
+  - first:
+      213: -2090874776458886077
+    second: NPC_DraLucia_41
+  - first:
+      213: -469973976768634368
+    second: NPC_DraLucia_42
+  - first:
+      213: 7794211171895663656
+    second: NPC_DraLucia_43
+  - first:
+      213: 6856556318541474643
+    second: NPC_DraLucia_44
+  - first:
+      213: 4091644995621048252
+    second: NPC_DraLucia_45
+  - first:
+      213: -5891049804276616712
+    second: NPC_DraLucia_46
+  - first:
+      213: -132557708023862341
+    second: NPC_DraLucia_47
+  - first:
+      213: -1373669836384576407
+    second: NPC_DraLucia_48
+  - first:
+      213: 7905894271660512046
+    second: NPC_DraLucia_49
+  - first:
+      213: 5072377788644332213
+    second: NPC_DraLucia_50
+  - first:
+      213: -3567700222394377064
+    second: NPC_DraLucia_51
+  - first:
+      213: 7235544496957115182
+    second: NPC_DraLucia_52
+  - first:
+      213: 4002287518907625855
+    second: NPC_DraLucia_53
+  - first:
+      213: -4594421934722317803
+    second: NPC_DraLucia_54
+  - first:
+      213: 2331741938541870593
+    second: NPC_DraLucia_55
+  - first:
+      213: 1388080699249243933
+    second: NPC_DraLucia_56
+  - first:
+      213: 4807183823073831237
+    second: NPC_DraLucia_57
+  - first:
+      213: 7278906327232153602
+    second: NPC_DraLucia_58
+  - first:
+      213: 4736277882672521518
+    second: NPC_DraLucia_59
+  - first:
+      213: 7061185839945720883
+    second: NPC_DraLucia_60
+  - first:
+      213: 3320116764419254606
+    second: NPC_DraLucia_61
+  - first:
+      213: 439672929408818339
+    second: NPC_DraLucia_62
+  - first:
+      213: -2536710694114164611
+    second: NPC_DraLucia_63
+  - first:
+      213: -3721499717596797465
+    second: NPC_DraLucia_64
+  - first:
+      213: 771590728998856794
+    second: NPC_DraLucia_65
+  - first:
+      213: -3036177324600253040
+    second: NPC_DraLucia_66
+  - first:
+      213: 1375249387268154151
+    second: NPC_DraLucia_67
+  - first:
+      213: -5775208535499423586
+    second: NPC_DraLucia_68
+  - first:
+      213: 3774272884565037048
+    second: NPC_DraLucia_69
+  - first:
+      213: -7979881725873110576
+    second: NPC_DraLucia_70
+  - first:
+      213: -2354950297517208464
+    second: NPC_DraLucia_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_DraLucia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a13fc20d36e64d9b25bd7a2e8c31a
+      internalID: -5351708506691860482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9446e222e8eb47b31b23f1890c0fa
+      internalID: 3604462321536654466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333265c5a5630444a981da1484f905b6
+      internalID: 7118472707423824760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621ecaa05b9bf746ab34f6a7801a96b
+      internalID: 3171028778679114886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c827bdf264c9f4ab03995ae1eb9cdf
+      internalID: -8685384025053075617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d93b378f5d61b4ebc3bf2b7ffb90fb
+      internalID: -4634614010943326586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf12353abddf645ac080db2ec4a231
+      internalID: -8813873928972704413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afbce121800044f9081801c513711a
+      internalID: 2336578624890136098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6bc9d047fa8574182bb88a5dcda64e
+      internalID: -3512871540683318967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e68f36b263d014e8e31ae7b9262e9f
+      internalID: -7206626118086721926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e21cdfaea0bc240a82f069b38b5b9d
+      internalID: 7405806921911695669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6b575187972b4996fa40bea83ac70
+      internalID: 7800174786983155150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7768052ee1785684c91fd50c9d957fff
+      internalID: 5147167562411563825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfa1f8ec72743745a82bc4084d48bfc
+      internalID: 8892640602439797475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcf99dd3bd67c4697db65e1564ead3
+      internalID: -4154258761517199735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c94618461470b49af00c352d6a5838
+      internalID: 4504356552071647350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fbea0f384194b4b8a583fbd7805a26
+      internalID: -4072452945400717602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6287b5934b1d0749aa7c3926dd6ca2f
+      internalID: -8303682099540530949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba4a0eba2d83c4d8b1b5260215a731
+      internalID: 4023772511082623719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6203d76795d44480f1bb5979b2091
+      internalID: -1098135177289197164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008dba269723fa041973c69a8c686513
+      internalID: 2734182457499937918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa7a16710fd0f46b2ef402b0b98c2b
+      internalID: -6534329126466108534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dad3cf5fbb35d40919448ff17fcff4
+      internalID: -1746015293934693897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa00459e1b02ed4db38daa25530cbf5
+      internalID: -3488865500652524812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66716d1498891d04ba8d0b3c20e31280
+      internalID: -3198663121420781199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5467f3834e9ec574b97e8c8a261a36ce
+      internalID: -6599816321017085857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a5cc5ec472cc47b810305866e8f15
+      internalID: -413876419003304992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998894a9ac05b7f4487018f020e134a2
+      internalID: 6061888658331538512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b576142d1f3990479dc64e811973386
+      internalID: 3004327772919805298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a939540ec91345846e555a5840030
+      internalID: -6762791666699556503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a57db0d0453d4d8860a939cb8f110
+      internalID: -136473545654584622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244a1270914c734a83edfbe6d6f1631
+      internalID: -3642321439218680724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c2b9babb341744942f3d4a6535d63
+      internalID: 482075184755883607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186e0a3b74ab2949bdfc852c2cce581
+      internalID: -3932909307513595281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be23de7f3621b4bbf05e7c21c2cd46
+      internalID: 592466160926008213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f688fcbfc60f0419611101d5724e20
+      internalID: 6372412325808726195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e6919854e4fc4d97844e063e1c913
+      internalID: -8798104229145351839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34008206ae36a0348b1053bded1954a6
+      internalID: 3005819616286719256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb2ad5cbf47c048bcc86186953c837
+      internalID: 792677319996098048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777959034d88d44a8f0dd22d5bf431b
+      internalID: -8434390420589874284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a07e7cba6cd54dbe77578b4ff31a4
+      internalID: -1327544528507319388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffe183d9795a04eb962079aef03b1a
+      internalID: -2090874776458886077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915c775f21c449443a143e5aaa32ed7c
+      internalID: -469973976768634368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887d616f92932a4584fd33b06e74c28
+      internalID: 7794211171895663656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b922072ece9ee54eadd4996880e832f
+      internalID: 6856556318541474643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ae297eaae87449b0ec690be4826aa
+      internalID: 4091644995621048252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcbc50c246c11489e2140136d3a23c
+      internalID: -5891049804276616712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683bcdf3b6b08b24da2a048547bc0376
+      internalID: -132557708023862341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbff59631a85e44a1ba18b421d4489
+      internalID: -1373669836384576407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892012bfff779a4294c4a7235de7c26
+      internalID: 7905894271660512046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37683900ce757aa488a21d42a972608b
+      internalID: 5072377788644332213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75519552b56194a838d4ba0a4b3335
+      internalID: -3567700222394377064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ea403d36a15c43a6ff3043aa69738
+      internalID: 7235544496957115182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d4b792b8f095343aa90073d1aedf3c
+      internalID: 4002287518907625855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf760db7189dfa4ea8043be6ddd50c4
+      internalID: -4594421934722317803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acaef9291307184ca17c41a3eb4dc37
+      internalID: 2331741938541870593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd9efa06cc96642a0efcfb8e5aea14
+      internalID: 1388080699249243933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61609e9a77e2cd34dae6852301abdfbd
+      internalID: 4807183823073831237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b084e94bea8ba43b7e060e32ae163f
+      internalID: 7278906327232153602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a5592d3b3d2f459f87a5e7392a573
+      internalID: 4736277882672521518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47c2bb3a9b9e544990452e251185aa
+      internalID: 7061185839945720883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac1bacfe6100b438a81c493d7c4836
+      internalID: 3320116764419254606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc49b59feecfcc438f6d3db61ecc863
+      internalID: 439672929408818339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75468a303c08294c9edb25388ee884c
+      internalID: -2536710694114164611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa009a1627bc63040b97907b939719b3
+      internalID: -3721499717596797465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85b117b9cc75d468339db705d7bf16
+      internalID: 771590728998856794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a281ac1190a045aa5d1053e49c068
+      internalID: -3036177324600253040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ad7cd36779c8418dfeefb87cda11f
+      internalID: 1375249387268154151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae13aab027bbb314c83ec5b71c907ded
+      internalID: -5775208535499423586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c9a6ac9f671141a63d57482b8955d
+      internalID: 3774272884565037048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d812f8fad21949b001851a750c7d3
+      internalID: -7979881725873110576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_DraLucia_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a245d4208ff28e42a52f8b2a3d378f7
+      internalID: -2354950297517208464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cd8e1ef00205c748933516570242ad0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_DraLucia_0: -5351708506691860482
+      NPC_DraLucia_1: 3604462321536654466
+      NPC_DraLucia_10: 7405806921911695669
+      NPC_DraLucia_11: 7800174786983155150
+      NPC_DraLucia_12: 5147167562411563825
+      NPC_DraLucia_13: 8892640602439797475
+      NPC_DraLucia_14: -4154258761517199735
+      NPC_DraLucia_15: 4504356552071647350
+      NPC_DraLucia_16: -4072452945400717602
+      NPC_DraLucia_17: -8303682099540530949
+      NPC_DraLucia_18: 4023772511082623719
+      NPC_DraLucia_19: -1098135177289197164
+      NPC_DraLucia_2: 7118472707423824760
+      NPC_DraLucia_20: 2734182457499937918
+      NPC_DraLucia_21: -6534329126466108534
+      NPC_DraLucia_22: -1746015293934693897
+      NPC_DraLucia_23: -3488865500652524812
+      NPC_DraLucia_24: -3198663121420781199
+      NPC_DraLucia_25: -6599816321017085857
+      NPC_DraLucia_26: -413876419003304992
+      NPC_DraLucia_27: 6061888658331538512
+      NPC_DraLucia_28: 3004327772919805298
+      NPC_DraLucia_29: -6762791666699556503
+      NPC_DraLucia_3: 3171028778679114886
+      NPC_DraLucia_30: -136473545654584622
+      NPC_DraLucia_31: -3642321439218680724
+      NPC_DraLucia_32: 482075184755883607
+      NPC_DraLucia_33: -3932909307513595281
+      NPC_DraLucia_34: 592466160926008213
+      NPC_DraLucia_35: 6372412325808726195
+      NPC_DraLucia_36: -8798104229145351839
+      NPC_DraLucia_37: 3005819616286719256
+      NPC_DraLucia_38: 792677319996098048
+      NPC_DraLucia_39: -8434390420589874284
+      NPC_DraLucia_4: -8685384025053075617
+      NPC_DraLucia_40: -1327544528507319388
+      NPC_DraLucia_41: -2090874776458886077
+      NPC_DraLucia_42: -469973976768634368
+      NPC_DraLucia_43: 7794211171895663656
+      NPC_DraLucia_44: 6856556318541474643
+      NPC_DraLucia_45: 4091644995621048252
+      NPC_DraLucia_46: -5891049804276616712
+      NPC_DraLucia_47: -132557708023862341
+      NPC_DraLucia_48: -1373669836384576407
+      NPC_DraLucia_49: 7905894271660512046
+      NPC_DraLucia_5: -4634614010943326586
+      NPC_DraLucia_50: 5072377788644332213
+      NPC_DraLucia_51: -3567700222394377064
+      NPC_DraLucia_52: 7235544496957115182
+      NPC_DraLucia_53: 4002287518907625855
+      NPC_DraLucia_54: -4594421934722317803
+      NPC_DraLucia_55: 2331741938541870593
+      NPC_DraLucia_56: 1388080699249243933
+      NPC_DraLucia_57: 4807183823073831237
+      NPC_DraLucia_58: 7278906327232153602
+      NPC_DraLucia_59: 4736277882672521518
+      NPC_DraLucia_6: -8813873928972704413
+      NPC_DraLucia_60: 7061185839945720883
+      NPC_DraLucia_61: 3320116764419254606
+      NPC_DraLucia_62: 439672929408818339
+      NPC_DraLucia_63: -2536710694114164611
+      NPC_DraLucia_64: -3721499717596797465
+      NPC_DraLucia_65: 771590728998856794
+      NPC_DraLucia_66: -3036177324600253040
+      NPC_DraLucia_67: 1375249387268154151
+      NPC_DraLucia_68: -5775208535499423586
+      NPC_DraLucia_69: 3774272884565037048
+      NPC_DraLucia_7: 2336578624890136098
+      NPC_DraLucia_70: -7979881725873110576
+      NPC_DraLucia_71: -2354950297517208464
+      NPC_DraLucia_8: -3512871540683318967
+      NPC_DraLucia_9: -7206626118086721926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

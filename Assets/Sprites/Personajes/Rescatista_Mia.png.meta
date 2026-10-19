@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: 7b49bd9faa2460e4f99ec8814d60796c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4336950211206148587
+    second: Rescatista_Mia_0
+  - first:
+      213: 3381439130334820921
+    second: Rescatista_Mia_1
+  - first:
+      213: -7496713756061804478
+    second: Rescatista_Mia_2
+  - first:
+      213: 9163640984264386145
+    second: Rescatista_Mia_3
+  - first:
+      213: -6169821361889809525
+    second: Rescatista_Mia_4
+  - first:
+      213: -586340491222608799
+    second: Rescatista_Mia_5
+  - first:
+      213: -4433760210092614239
+    second: Rescatista_Mia_6
+  - first:
+      213: -6528321455922973619
+    second: Rescatista_Mia_7
+  - first:
+      213: -5036321845033160502
+    second: Rescatista_Mia_8
+  - first:
+      213: -8772646905603832935
+    second: Rescatista_Mia_9
+  - first:
+      213: 210316707994652481
+    second: Rescatista_Mia_10
+  - first:
+      213: 6651081237702316560
+    second: Rescatista_Mia_11
+  - first:
+      213: 7758887946997098740
+    second: Rescatista_Mia_12
+  - first:
+      213: -1877727564944018985
+    second: Rescatista_Mia_13
+  - first:
+      213: 373905584555768497
+    second: Rescatista_Mia_14
+  - first:
+      213: -4738511958262903361
+    second: Rescatista_Mia_15
+  - first:
+      213: -893291176012013324
+    second: Rescatista_Mia_16
+  - first:
+      213: 9093266580206089085
+    second: Rescatista_Mia_17
+  - first:
+      213: 7406069766785615612
+    second: Rescatista_Mia_18
+  - first:
+      213: 1830025854066810492
+    second: Rescatista_Mia_19
+  - first:
+      213: -3264019224261561828
+    second: Rescatista_Mia_20
+  - first:
+      213: 8540429202695528697
+    second: Rescatista_Mia_21
+  - first:
+      213: -5194129032804091474
+    second: Rescatista_Mia_22
+  - first:
+      213: -3603206707073975085
+    second: Rescatista_Mia_23
+  - first:
+      213: 1702412288600598165
+    second: Rescatista_Mia_24
+  - first:
+      213: 4152197639121007496
+    second: Rescatista_Mia_25
+  - first:
+      213: -5385627480332296011
+    second: Rescatista_Mia_26
+  - first:
+      213: 1262955336709351527
+    second: Rescatista_Mia_27
+  - first:
+      213: -3717059596055454968
+    second: Rescatista_Mia_28
+  - first:
+      213: 3881418866796677057
+    second: Rescatista_Mia_29
+  - first:
+      213: 7748123021767232315
+    second: Rescatista_Mia_30
+  - first:
+      213: 8605917820164171503
+    second: Rescatista_Mia_31
+  - first:
+      213: -3447224498232549543
+    second: Rescatista_Mia_32
+  - first:
+      213: -2001362448491897281
+    second: Rescatista_Mia_33
+  - first:
+      213: -3445407954343805227
+    second: Rescatista_Mia_34
+  - first:
+      213: -4864001875379495594
+    second: Rescatista_Mia_35
+  - first:
+      213: -8330021672507767049
+    second: Rescatista_Mia_36
+  - first:
+      213: 3167927931423962314
+    second: Rescatista_Mia_37
+  - first:
+      213: -5542865541485255941
+    second: Rescatista_Mia_38
+  - first:
+      213: -3799059099965617060
+    second: Rescatista_Mia_39
+  - first:
+      213: 6193781382624574847
+    second: Rescatista_Mia_40
+  - first:
+      213: -2307799745376995458
+    second: Rescatista_Mia_41
+  - first:
+      213: -3514715708671224498
+    second: Rescatista_Mia_42
+  - first:
+      213: -4629672084812696901
+    second: Rescatista_Mia_43
+  - first:
+      213: 5330166362531100146
+    second: Rescatista_Mia_44
+  - first:
+      213: -8414021131921450047
+    second: Rescatista_Mia_45
+  - first:
+      213: 1280729025304003246
+    second: Rescatista_Mia_46
+  - first:
+      213: 5031979927855602006
+    second: Rescatista_Mia_47
+  - first:
+      213: 1569332533428414742
+    second: Rescatista_Mia_48
+  - first:
+      213: -2763877817141209630
+    second: Rescatista_Mia_49
+  - first:
+      213: 8825461203686186153
+    second: Rescatista_Mia_50
+  - first:
+      213: -2738315686834278081
+    second: Rescatista_Mia_51
+  - first:
+      213: -4885664508614456013
+    second: Rescatista_Mia_52
+  - first:
+      213: 1398334238240444409
+    second: Rescatista_Mia_53
+  - first:
+      213: -3488618388601533188
+    second: Rescatista_Mia_54
+  - first:
+      213: -2390144637825239070
+    second: Rescatista_Mia_55
+  - first:
+      213: 4236699300830180393
+    second: Rescatista_Mia_56
+  - first:
+      213: -2512804753743466185
+    second: Rescatista_Mia_57
+  - first:
+      213: -9205104139980969016
+    second: Rescatista_Mia_58
+  - first:
+      213: 5357478291478063265
+    second: Rescatista_Mia_59
+  - first:
+      213: 6434007927145188092
+    second: Rescatista_Mia_60
+  - first:
+      213: -4859340840755756561
+    second: Rescatista_Mia_61
+  - first:
+      213: 5312168957378437971
+    second: Rescatista_Mia_62
+  - first:
+      213: 5303031302196653276
+    second: Rescatista_Mia_63
+  - first:
+      213: 7844120008221802992
+    second: Rescatista_Mia_64
+  - first:
+      213: -7989641656908539701
+    second: Rescatista_Mia_65
+  - first:
+      213: -7765812280653190036
+    second: Rescatista_Mia_66
+  - first:
+      213: 600397865075331671
+    second: Rescatista_Mia_67
+  - first:
+      213: 4938968647527871047
+    second: Rescatista_Mia_68
+  - first:
+      213: -6221173152103231318
+    second: Rescatista_Mia_69
+  - first:
+      213: -7624337675306511892
+    second: Rescatista_Mia_70
+  - first:
+      213: 5553948954876697041
+    second: Rescatista_Mia_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rescatista_Mia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6abdc6ae89af5742b99f3aab509e2eb
+      internalID: 4336950211206148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22570b709fe203c4493ac7ea35800e70
+      internalID: 3381439130334820921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc0579520ad7c4d9e14e7fda8c3a24
+      internalID: -7496713756061804478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc5593afe9966b489fc0b1917003963
+      internalID: 9163640984264386145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456586f61ece3fa48a39645b1ddd05af
+      internalID: -6169821361889809525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be1bb749a76da4a954e0bd4ff94dc6
+      internalID: -586340491222608799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839af851b333a542a54c383a55cb5b4
+      internalID: -4433760210092614239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4df67e93ae524bb3daeb5e7ed237e
+      internalID: -6528321455922973619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e9b6888442d74492be769cb321f62
+      internalID: -5036321845033160502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb7b88812b00f4e9fa18e8cd9f29cd
+      internalID: -8772646905603832935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe159f46c45ae9f47aabd1d306221b7e
+      internalID: 210316707994652481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aee8dbcf8d79a449d0c23333d96a5d
+      internalID: 6651081237702316560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e80006ba8fab04b8b42f252256e68c
+      internalID: 7758887946997098740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30727a4997134bb4ea7094497b3643d0
+      internalID: -1877727564944018985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221965c29ff45a4ca5b8a2f38dc023d
+      internalID: 373905584555768497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78ad14902474d4ba0ade9c2532712d
+      internalID: -4738511958262903361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25da8f1e4b0d14a4db64b6396c675808
+      internalID: -893291176012013324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06101b686e88134fbabc409bb73893e
+      internalID: 9093266580206089085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2193488c3b2ca247830ef9c573b532b
+      internalID: 7406069766785615612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c759c9eb6b68945b3cde9eddc6cacb
+      internalID: 1830025854066810492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7017871d620f67409ab53482613e2be
+      internalID: -3264019224261561828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18a38976d0526545afb6fa1d16fda20
+      internalID: 8540429202695528697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d094d905ce446e49807cc40bf345253
+      internalID: -5194129032804091474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c4227c8fd6c6845b1d685173e88bb3
+      internalID: -3603206707073975085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a285e020c39f46e489455fe471fb703d
+      internalID: 1702412288600598165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f244e2992cad2499034e86a8aff423
+      internalID: 4152197639121007496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f0a80148c0a34281edabeef6e3068
+      internalID: -5385627480332296011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9afca41e07b2e4d8273418c0801163
+      internalID: 1262955336709351527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbca2d0a64180c45b0d8ec3f175efc6
+      internalID: -3717059596055454968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f11f99fbadb24aa937a7ff1eac461
+      internalID: 3881418866796677057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1c538a912d824595cd57f6fbb4554
+      internalID: 7748123021767232315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79982150ca174c44da1edc7cf2602f54
+      internalID: 8605917820164171503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60e452fa37d234baaf3dbcfde1fa78
+      internalID: -3447224498232549543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc7a2c8b898fa4a94ba6d00b1473f7
+      internalID: -2001362448491897281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bcc3e1531065d46bb52645b9c2a6f7
+      internalID: -3445407954343805227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66cbd87d2ecb0c4f9f12398b8740bf6
+      internalID: -4864001875379495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41657258ddb7a164197ff76a98c6d812
+      internalID: -8330021672507767049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e398385401884b4e848dace0d9738a6
+      internalID: 3167927931423962314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e2db6a3f16fb418e9ff58f4e78ac4
+      internalID: -5542865541485255941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede096288ea82ba4bb9257fd25841a79
+      internalID: -3799059099965617060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349908c9a13cc7a458c0802aa85bf2a9
+      internalID: 6193781382624574847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d5cfabe8b595449817bc93d16a625
+      internalID: -2307799745376995458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa396f2f2a1214fa556e06181d2869
+      internalID: -3514715708671224498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9b78bb4b0df04aaa013ce95f52b88
+      internalID: -4629672084812696901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0e41db59633641a4997a45c7df5ab
+      internalID: 5330166362531100146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bdaee06969a1f4799c37f3da4a10b3
+      internalID: -8414021131921450047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a3a58c3272db4e9ed2ae736012328
+      internalID: 1280729025304003246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbf12cd4172004899bc1153da16e95
+      internalID: 5031979927855602006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecd5e2ca405a240a66636b1496706b
+      internalID: 1569332533428414742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388ffc155144c84da6b6e7b4a4d2590
+      internalID: -2763877817141209630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dae2aeabcfd7146842c68fe947c7a1
+      internalID: 8825461203686186153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ecfc7a5dc0936439f1efe4d52df22d
+      internalID: -2738315686834278081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058b56d71294ea4db3e1b39dbb7f679
+      internalID: -4885664508614456013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b7d1a94f29764ead6d49e43a70160
+      internalID: 1398334238240444409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3d1d2c7c04a64e827e57de3266511
+      internalID: -3488618388601533188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4b4c524276e541897b1c138792490
+      internalID: -2390144637825239070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d348845702e8ae4ca84a08c21430401
+      internalID: 4236699300830180393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90251b66d2b2f124f81699bd5e5f9e90
+      internalID: -2512804753743466185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a731bef6ff1704b92545a4696d8c9d
+      internalID: -9205104139980969016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6081870edb8e4883aad54b06db3d4
+      internalID: 5357478291478063265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e06f17cd4f794baa2d6abea9c55cc
+      internalID: 6434007927145188092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba17e74d0a06043beab74c60a8edf6
+      internalID: -4859340840755756561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34739603eeed6f499bb3c80a45ef76b
+      internalID: 5312168957378437971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadfcedf258ba34b9ffa4fda31ae213
+      internalID: 5303031302196653276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a91b62627e6e47a933a02cda4d845
+      internalID: 7844120008221802992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371cab448713e142a9b1189e90659d5
+      internalID: -7989641656908539701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9219be77a1c15c459067f818888c16f
+      internalID: -7765812280653190036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536511f9cbb6af44fa7175e6380ea516
+      internalID: 600397865075331671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da6b64d732c8274dbe70282659a66b4
+      internalID: 4938968647527871047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fca39619e29aa449175730d873b512
+      internalID: -6221173152103231318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3c14166a8e1a47ab23462f470e63d
+      internalID: -7624337675306511892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rescatista_Mia_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3cd62145ee2224c824d535f19586ee
+      internalID: 5553948954876697041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e01ad70207d70840991539c4ccaf048
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rescatista_Mia_0: 4336950211206148587
+      Rescatista_Mia_1: 3381439130334820921
+      Rescatista_Mia_10: 210316707994652481
+      Rescatista_Mia_11: 6651081237702316560
+      Rescatista_Mia_12: 7758887946997098740
+      Rescatista_Mia_13: -1877727564944018985
+      Rescatista_Mia_14: 373905584555768497
+      Rescatista_Mia_15: -4738511958262903361
+      Rescatista_Mia_16: -893291176012013324
+      Rescatista_Mia_17: 9093266580206089085
+      Rescatista_Mia_18: 7406069766785615612
+      Rescatista_Mia_19: 1830025854066810492
+      Rescatista_Mia_2: -7496713756061804478
+      Rescatista_Mia_20: -3264019224261561828
+      Rescatista_Mia_21: 8540429202695528697
+      Rescatista_Mia_22: -5194129032804091474
+      Rescatista_Mia_23: -3603206707073975085
+      Rescatista_Mia_24: 1702412288600598165
+      Rescatista_Mia_25: 4152197639121007496
+      Rescatista_Mia_26: -5385627480332296011
+      Rescatista_Mia_27: 1262955336709351527
+      Rescatista_Mia_28: -3717059596055454968
+      Rescatista_Mia_29: 3881418866796677057
+      Rescatista_Mia_3: 9163640984264386145
+      Rescatista_Mia_30: 7748123021767232315
+      Rescatista_Mia_31: 8605917820164171503
+      Rescatista_Mia_32: -3447224498232549543
+      Rescatista_Mia_33: -2001362448491897281
+      Rescatista_Mia_34: -3445407954343805227
+      Rescatista_Mia_35: -4864001875379495594
+      Rescatista_Mia_36: -8330021672507767049
+      Rescatista_Mia_37: 3167927931423962314
+      Rescatista_Mia_38: -5542865541485255941
+      Rescatista_Mia_39: -3799059099965617060
+      Rescatista_Mia_4: -6169821361889809525
+      Rescatista_Mia_40: 6193781382624574847
+      Rescatista_Mia_41: -2307799745376995458
+      Rescatista_Mia_42: -3514715708671224498
+      Rescatista_Mia_43: -4629672084812696901
+      Rescatista_Mia_44: 5330166362531100146
+      Rescatista_Mia_45: -8414021131921450047
+      Rescatista_Mia_46: 1280729025304003246
+      Rescatista_Mia_47: 5031979927855602006
+      Rescatista_Mia_48: 1569332533428414742
+      Rescatista_Mia_49: -2763877817141209630
+      Rescatista_Mia_5: -586340491222608799
+      Rescatista_Mia_50: 8825461203686186153
+      Rescatista_Mia_51: -2738315686834278081
+      Rescatista_Mia_52: -4885664508614456013
+      Rescatista_Mia_53: 1398334238240444409
+      Rescatista_Mia_54: -3488618388601533188
+      Rescatista_Mia_55: -2390144637825239070
+      Rescatista_Mia_56: 4236699300830180393
+      Rescatista_Mia_57: -2512804753743466185
+      Rescatista_Mia_58: -9205104139980969016
+      Rescatista_Mia_59: 5357478291478063265
+      Rescatista_Mia_6: -4433760210092614239
+      Rescatista_Mia_60: 6434007927145188092
+      Rescatista_Mia_61: -4859340840755756561
+      Rescatista_Mia_62: 5312168957378437971
+      Rescatista_Mia_63: 5303031302196653276
+      Rescatista_Mia_64: 7844120008221802992
+      Rescatista_Mia_65: -7989641656908539701
+      Rescatista_Mia_66: -7765812280653190036
+      Rescatista_Mia_67: 600397865075331671
+      Rescatista_Mia_68: 4938968647527871047
+      Rescatista_Mia_69: -6221173152103231318
+      Rescatista_Mia_7: -6528321455922973619
+      Rescatista_Mia_70: -7624337675306511892
+      Rescatista_Mia_71: 5553948954876697041
+      Rescatista_Mia_8: -5036321845033160502
+      Rescatista_Mia_9: -8772646905603832935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

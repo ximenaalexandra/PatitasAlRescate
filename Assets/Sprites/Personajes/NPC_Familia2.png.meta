@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: 1e3dd13b26efa6041ab2f6ca5d5d1ce4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746681217304491635
+    second: NPC_Familia2_0
+  - first:
+      213: 1011985712956308356
+    second: NPC_Familia2_1
+  - first:
+      213: -7014027472944719503
+    second: NPC_Familia2_2
+  - first:
+      213: -6364674169199658005
+    second: NPC_Familia2_3
+  - first:
+      213: -8885577187082853559
+    second: NPC_Familia2_4
+  - first:
+      213: -4203706064867364139
+    second: NPC_Familia2_5
+  - first:
+      213: -2576565031407014049
+    second: NPC_Familia2_6
+  - first:
+      213: -3046339821506770095
+    second: NPC_Familia2_7
+  - first:
+      213: 8766098234249946903
+    second: NPC_Familia2_8
+  - first:
+      213: -8157044355524819645
+    second: NPC_Familia2_9
+  - first:
+      213: -4830785050540385097
+    second: NPC_Familia2_10
+  - first:
+      213: 6119988845333756071
+    second: NPC_Familia2_11
+  - first:
+      213: -3611106970967438620
+    second: NPC_Familia2_12
+  - first:
+      213: -4814950204719213122
+    second: NPC_Familia2_13
+  - first:
+      213: 9060886062476253529
+    second: NPC_Familia2_14
+  - first:
+      213: -5813232785266881301
+    second: NPC_Familia2_15
+  - first:
+      213: 7590610530636074402
+    second: NPC_Familia2_16
+  - first:
+      213: 6098126199090452589
+    second: NPC_Familia2_17
+  - first:
+      213: -2607458726019148989
+    second: NPC_Familia2_18
+  - first:
+      213: 701693810869212764
+    second: NPC_Familia2_19
+  - first:
+      213: -2675647102152902203
+    second: NPC_Familia2_20
+  - first:
+      213: -2738110407175773976
+    second: NPC_Familia2_21
+  - first:
+      213: 1011353197393813594
+    second: NPC_Familia2_22
+  - first:
+      213: -7879830042617071070
+    second: NPC_Familia2_23
+  - first:
+      213: -5317383074758252635
+    second: NPC_Familia2_24
+  - first:
+      213: 6136119354109948376
+    second: NPC_Familia2_25
+  - first:
+      213: -2223700095880309227
+    second: NPC_Familia2_26
+  - first:
+      213: 1991301854878060657
+    second: NPC_Familia2_27
+  - first:
+      213: -7820051327208819135
+    second: NPC_Familia2_28
+  - first:
+      213: 8667975621281561850
+    second: NPC_Familia2_29
+  - first:
+      213: -888329178736275407
+    second: NPC_Familia2_30
+  - first:
+      213: -1421190002803801918
+    second: NPC_Familia2_31
+  - first:
+      213: -8868163523132955621
+    second: NPC_Familia2_32
+  - first:
+      213: 1080034317891011849
+    second: NPC_Familia2_33
+  - first:
+      213: -2739865594735160515
+    second: NPC_Familia2_34
+  - first:
+      213: 7780459385761258541
+    second: NPC_Familia2_35
+  - first:
+      213: 4736331675027310544
+    second: NPC_Familia2_36
+  - first:
+      213: -3126838211730300037
+    second: NPC_Familia2_37
+  - first:
+      213: -4937558213791841084
+    second: NPC_Familia2_38
+  - first:
+      213: -8650768183457710852
+    second: NPC_Familia2_39
+  - first:
+      213: -2299015298935059485
+    second: NPC_Familia2_40
+  - first:
+      213: -5085666696756785484
+    second: NPC_Familia2_41
+  - first:
+      213: -1637483940414859629
+    second: NPC_Familia2_42
+  - first:
+      213: 5544637940650501727
+    second: NPC_Familia2_43
+  - first:
+      213: -2449211564982175959
+    second: NPC_Familia2_44
+  - first:
+      213: -8792172523522143931
+    second: NPC_Familia2_45
+  - first:
+      213: -2311267863839654340
+    second: NPC_Familia2_46
+  - first:
+      213: 1741266760984274550
+    second: NPC_Familia2_47
+  - first:
+      213: -7207920426374931725
+    second: NPC_Familia2_48
+  - first:
+      213: -5814051644194782676
+    second: NPC_Familia2_49
+  - first:
+      213: -5436399216461150269
+    second: NPC_Familia2_50
+  - first:
+      213: 3038051763239748558
+    second: NPC_Familia2_51
+  - first:
+      213: -1796208687702386917
+    second: NPC_Familia2_52
+  - first:
+      213: 3833335068859412774
+    second: NPC_Familia2_53
+  - first:
+      213: 6480383725281058747
+    second: NPC_Familia2_54
+  - first:
+      213: 910815072027212191
+    second: NPC_Familia2_55
+  - first:
+      213: -1007545680316337076
+    second: NPC_Familia2_56
+  - first:
+      213: -1668541454384896211
+    second: NPC_Familia2_57
+  - first:
+      213: 2494161130410163370
+    second: NPC_Familia2_58
+  - first:
+      213: 1171790150373958392
+    second: NPC_Familia2_59
+  - first:
+      213: 7353016915398277428
+    second: NPC_Familia2_60
+  - first:
+      213: 7395508505045034418
+    second: NPC_Familia2_61
+  - first:
+      213: 1297441500280945701
+    second: NPC_Familia2_62
+  - first:
+      213: 5021353360650906164
+    second: NPC_Familia2_63
+  - first:
+      213: 7280629165792527500
+    second: NPC_Familia2_64
+  - first:
+      213: -2259132190306328466
+    second: NPC_Familia2_65
+  - first:
+      213: -3376443127505218263
+    second: NPC_Familia2_66
+  - first:
+      213: 5983308464264095702
+    second: NPC_Familia2_67
+  - first:
+      213: -7385105216713806917
+    second: NPC_Familia2_68
+  - first:
+      213: 1937139443950971275
+    second: NPC_Familia2_69
+  - first:
+      213: 2459452935226096447
+    second: NPC_Familia2_70
+  - first:
+      213: 1844755713072414788
+    second: NPC_Familia2_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Familia2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e0b7f9edce4c641b37fc6273105823
+      internalID: 746681217304491635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e34aa8ab6e1747b84d01d36422ba8
+      internalID: 1011985712956308356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea80670b2fbad040957d586b4c0c0d3
+      internalID: -7014027472944719503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172a1ad0d6044c429c7ceeba27a6f75
+      internalID: -6364674169199658005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f053de3ace4734c991d1874173f313
+      internalID: -8885577187082853559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36963dc559019439c813a2153e6630
+      internalID: -4203706064867364139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78b3dc0721c684387aa17069311247
+      internalID: -2576565031407014049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325469c4257a9540b6ea5c4cecea2b2
+      internalID: -3046339821506770095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae0ef021ca08c4483bd07316d9dc39
+      internalID: 8766098234249946903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da99f3c6eca02a489490738c3e999b4
+      internalID: -8157044355524819645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f94e2cde5e8774cbcc937c4278e00a
+      internalID: -4830785050540385097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22cd086ef75b7a41807da5e23470740
+      internalID: 6119988845333756071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5d4a8da9a7e74ba3a6df243b2a210
+      internalID: -3611106970967438620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8b790fffd614947978bf4e2e31ae14
+      internalID: -4814950204719213122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f067afad830f84c9d89ca5dbd8fd56
+      internalID: 9060886062476253529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d66338cd5bc504b986b6af640be2d0
+      internalID: -5813232785266881301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1dc979729b5442af5bf15af1dd1ef
+      internalID: 7590610530636074402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa059d54d5a7b09468fbed460d892fe4
+      internalID: 6098126199090452589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80295ccf1e527d343a6d019e906b2ded
+      internalID: -2607458726019148989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e077812113b7e4493bb7fbd407492d
+      internalID: 701693810869212764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd04ed03710204d8803e41d916bae2
+      internalID: -2675647102152902203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c99765de1ddc43bb226ce7261e5fd
+      internalID: -2738110407175773976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf68e5cff2072d7489fba350f6e7d469
+      internalID: 1011353197393813594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fe3139c6bd6d438cb5cccab1ed17c
+      internalID: -7879830042617071070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257fcd80687a8f4085be2159f8f72e0
+      internalID: -5317383074758252635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d41cb365038543b0666ddb9b36205
+      internalID: 6136119354109948376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64812afef3e9ed4394eab18b1228845
+      internalID: -2223700095880309227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d057a8055d74749af598fa29d951fb
+      internalID: 1991301854878060657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a095104566f90e4c98aa997df8bac3c
+      internalID: -7820051327208819135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fafcca1a1f41242a4b630be9dbd06a
+      internalID: 8667975621281561850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca91051c45e88b4394c2b4785a42cfa
+      internalID: -888329178736275407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525e97f26c7cdf3479088aaf4d680fe1
+      internalID: -1421190002803801918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95770f2542e6c448313e48a0e33e99
+      internalID: -8868163523132955621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060ba3ae08ad8142bce524d89173dcd
+      internalID: 1080034317891011849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc315098d568e543be7240f3020d9c9
+      internalID: -2739865594735160515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7669e0134ec945be90d6a77c83c88
+      internalID: 7780459385761258541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508fee75d8496b49a9ac0c2b5d40aba
+      internalID: 4736331675027310544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90849e1e8dd424a9d85f18315fbcf1
+      internalID: -3126838211730300037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ddaaf63d9145a45bd917eb4d2b298a
+      internalID: -4937558213791841084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028169536d3fda41ae1e3ef8e17364a
+      internalID: -8650768183457710852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8d9a5d9ff5144685fdcadb3dd75b8
+      internalID: -2299015298935059485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748973dbe8c85064f91c4c25fd454289
+      internalID: -5085666696756785484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007ec32c839e7e4f8bd333822265eb1
+      internalID: -1637483940414859629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb13bed705fca4f95e028cf1c37a0a
+      internalID: 5544637940650501727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791d754e1fc503408fa882dd21db598
+      internalID: -2449211564982175959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9112691b959f1bf4da3998f339e9e58d
+      internalID: -8792172523522143931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a0ce2c28b84b46bf9a4f5b79d8b19
+      internalID: -2311267863839654340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d26e760edc3f74b951d571ab9aa107
+      internalID: 1741266760984274550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2de3a870f04c44baafabe1f7d106d
+      internalID: -7207920426374931725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101a4e9480e63741ab72c8cd11b2ecb
+      internalID: -5814051644194782676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802a169d8883f544a31a77431f1b449
+      internalID: -5436399216461150269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb82517c31c2b4980655df2278c6c5
+      internalID: 3038051763239748558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431537a4f0c8da64299414d9d8a02f5c
+      internalID: -1796208687702386917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3016529056dcba41a545b78ac8ad26e
+      internalID: 3833335068859412774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752b53b1f00c224098d3c5adc201a0e
+      internalID: 6480383725281058747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c994250fb80cb42aad90db981fa15a
+      internalID: 910815072027212191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc9f9b590a6c794f952d327a90dd4a3
+      internalID: -1007545680316337076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab717b79bbc5997498a927ba5547369c
+      internalID: -1668541454384896211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a53b300ab6b24e842b82732af8e71
+      internalID: 2494161130410163370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc827edf0623c4a88868ddfa0fa03f
+      internalID: 1171790150373958392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f8de24c5c0bc4d884b65129a85421
+      internalID: 7353016915398277428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002f1df35436b54f8c42699981d247c
+      internalID: 7395508505045034418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc13e1dd89047648b93056c033e6a45
+      internalID: 1297441500280945701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4285d19a82f757489c04456cbd2b31e
+      internalID: 5021353360650906164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4da2b69ab65dd40878b79ad2cbf329
+      internalID: 7280629165792527500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b619382e13ce54459b739600f26a09d
+      internalID: -2259132190306328466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77258245dc805524ba7bcd57c5ffe52a
+      internalID: -3376443127505218263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f72cebe750b747a42e9d388347a54
+      internalID: 5983308464264095702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1634083430b740e4e912143ed471c3d4
+      internalID: -7385105216713806917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0054fe50fdaf488af5f91824d5856
+      internalID: 1937139443950971275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab497a715a19bc4793e7a227f2fc369
+      internalID: 2459452935226096447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Familia2_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d5378c5276654ba6d4f699959fd0e
+      internalID: 1844755713072414788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f613f21d00f5b9f48ae33d2725f7e0fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_Familia2_0: 746681217304491635
+      NPC_Familia2_1: 1011985712956308356
+      NPC_Familia2_10: -4830785050540385097
+      NPC_Familia2_11: 6119988845333756071
+      NPC_Familia2_12: -3611106970967438620
+      NPC_Familia2_13: -4814950204719213122
+      NPC_Familia2_14: 9060886062476253529
+      NPC_Familia2_15: -5813232785266881301
+      NPC_Familia2_16: 7590610530636074402
+      NPC_Familia2_17: 6098126199090452589
+      NPC_Familia2_18: -2607458726019148989
+      NPC_Familia2_19: 701693810869212764
+      NPC_Familia2_2: -7014027472944719503
+      NPC_Familia2_20: -2675647102152902203
+      NPC_Familia2_21: -2738110407175773976
+      NPC_Familia2_22: 1011353197393813594
+      NPC_Familia2_23: -7879830042617071070
+      NPC_Familia2_24: -5317383074758252635
+      NPC_Familia2_25: 6136119354109948376
+      NPC_Familia2_26: -2223700095880309227
+      NPC_Familia2_27: 1991301854878060657
+      NPC_Familia2_28: -7820051327208819135
+      NPC_Familia2_29: 8667975621281561850
+      NPC_Familia2_3: -6364674169199658005
+      NPC_Familia2_30: -888329178736275407
+      NPC_Familia2_31: -1421190002803801918
+      NPC_Familia2_32: -8868163523132955621
+      NPC_Familia2_33: 1080034317891011849
+      NPC_Familia2_34: -2739865594735160515
+      NPC_Familia2_35: 7780459385761258541
+      NPC_Familia2_36: 4736331675027310544
+      NPC_Familia2_37: -3126838211730300037
+      NPC_Familia2_38: -4937558213791841084
+      NPC_Familia2_39: -8650768183457710852
+      NPC_Familia2_4: -8885577187082853559
+      NPC_Familia2_40: -2299015298935059485
+      NPC_Familia2_41: -5085666696756785484
+      NPC_Familia2_42: -1637483940414859629
+      NPC_Familia2_43: 5544637940650501727
+      NPC_Familia2_44: -2449211564982175959
+      NPC_Familia2_45: -8792172523522143931
+      NPC_Familia2_46: -2311267863839654340
+      NPC_Familia2_47: 1741266760984274550
+      NPC_Familia2_48: -7207920426374931725
+      NPC_Familia2_49: -5814051644194782676
+      NPC_Familia2_5: -4203706064867364139
+      NPC_Familia2_50: -5436399216461150269
+      NPC_Familia2_51: 3038051763239748558
+      NPC_Familia2_52: -1796208687702386917
+      NPC_Familia2_53: 3833335068859412774
+      NPC_Familia2_54: 6480383725281058747
+      NPC_Familia2_55: 910815072027212191
+      NPC_Familia2_56: -1007545680316337076
+      NPC_Familia2_57: -1668541454384896211
+      NPC_Familia2_58: 2494161130410163370
+      NPC_Familia2_59: 1171790150373958392
+      NPC_Familia2_6: -2576565031407014049
+      NPC_Familia2_60: 7353016915398277428
+      NPC_Familia2_61: 7395508505045034418
+      NPC_Familia2_62: 1297441500280945701
+      NPC_Familia2_63: 5021353360650906164
+      NPC_Familia2_64: 7280629165792527500
+      NPC_Familia2_65: -2259132190306328466
+      NPC_Familia2_66: -3376443127505218263
+      NPC_Familia2_67: 5983308464264095702
+      NPC_Familia2_68: -7385105216713806917
+      NPC_Familia2_69: 1937139443950971275
+      NPC_Familia2_7: -3046339821506770095
+      NPC_Familia2_70: 2459452935226096447
+      NPC_Familia2_71: 1844755713072414788
+      NPC_Familia2_8: 8766098234249946903
+      NPC_Familia2_9: -8157044355524819645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

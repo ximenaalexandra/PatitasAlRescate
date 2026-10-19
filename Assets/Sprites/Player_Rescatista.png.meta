@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: cf09177cbb09f47429470a63889d99b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6201445940408411993
+    second: Player_Rescatista_0
+  - first:
+      213: 3962274574235592056
+    second: Player_Rescatista_1
+  - first:
+      213: 6485657081461321062
+    second: Player_Rescatista_2
+  - first:
+      213: 7747342544617087234
+    second: Player_Rescatista_3
+  - first:
+      213: 8037507873208736072
+    second: Player_Rescatista_4
+  - first:
+      213: 907375824527964449
+    second: Player_Rescatista_5
+  - first:
+      213: -6934986640675389459
+    second: Player_Rescatista_6
+  - first:
+      213: -2561742589127023193
+    second: Player_Rescatista_7
+  - first:
+      213: -7250857076770954641
+    second: Player_Rescatista_8
+  - first:
+      213: 5870437714873084225
+    second: Player_Rescatista_9
+  - first:
+      213: 737402953676051106
+    second: Player_Rescatista_10
+  - first:
+      213: -8355944548403795848
+    second: Player_Rescatista_11
+  - first:
+      213: 3990477161946476582
+    second: Player_Rescatista_12
+  - first:
+      213: -2471118490727063748
+    second: Player_Rescatista_13
+  - first:
+      213: -4291297269780322513
+    second: Player_Rescatista_14
+  - first:
+      213: -6836292205432918934
+    second: Player_Rescatista_15
+  - first:
+      213: -6915986239602653407
+    second: Player_Rescatista_16
+  - first:
+      213: -6064618065745209697
+    second: Player_Rescatista_17
+  - first:
+      213: 2917307839368138230
+    second: Player_Rescatista_18
+  - first:
+      213: 2915398772572562085
+    second: Player_Rescatista_19
+  - first:
+      213: 5520823868974142063
+    second: Player_Rescatista_20
+  - first:
+      213: 569643158096127993
+    second: Player_Rescatista_21
+  - first:
+      213: 5576640283815824814
+    second: Player_Rescatista_22
+  - first:
+      213: 5207943545311570442
+    second: Player_Rescatista_23
+  - first:
+      213: 998799120906234657
+    second: Player_Rescatista_24
+  - first:
+      213: 8133526768101885332
+    second: Player_Rescatista_25
+  - first:
+      213: -9097240924224763492
+    second: Player_Rescatista_26
+  - first:
+      213: -3920892623235784556
+    second: Player_Rescatista_27
+  - first:
+      213: 2825468406368898394
+    second: Player_Rescatista_28
+  - first:
+      213: 1838377167898789634
+    second: Player_Rescatista_29
+  - first:
+      213: -8273986814071207967
+    second: Player_Rescatista_30
+  - first:
+      213: 5627562136940295616
+    second: Player_Rescatista_31
+  - first:
+      213: -3890141335784999329
+    second: Player_Rescatista_32
+  - first:
+      213: -4446877311060734861
+    second: Player_Rescatista_33
+  - first:
+      213: 3404259825396234581
+    second: Player_Rescatista_34
+  - first:
+      213: -4299007770177851333
+    second: Player_Rescatista_35
+  - first:
+      213: 8780136074812899483
+    second: Player_Rescatista_36
+  - first:
+      213: 3309422392382309922
+    second: Player_Rescatista_37
+  - first:
+      213: -5922370176632107930
+    second: Player_Rescatista_38
+  - first:
+      213: -2165268091614435245
+    second: Player_Rescatista_39
+  - first:
+      213: 2447733760695809361
+    second: Player_Rescatista_40
+  - first:
+      213: 6461928005487684466
+    second: Player_Rescatista_41
+  - first:
+      213: -5943322392085590021
+    second: Player_Rescatista_42
+  - first:
+      213: 2415856803679789249
+    second: Player_Rescatista_43
+  - first:
+      213: -7475158911607668594
+    second: Player_Rescatista_44
+  - first:
+      213: 5426984937236111178
+    second: Player_Rescatista_45
+  - first:
+      213: -255152305274225866
+    second: Player_Rescatista_46
+  - first:
+      213: -4918790514877125754
+    second: Player_Rescatista_47
+  - first:
+      213: -2380001612459646208
+    second: Player_Rescatista_48
+  - first:
+      213: 9134049485165379802
+    second: Player_Rescatista_49
+  - first:
+      213: 6988277138184643145
+    second: Player_Rescatista_50
+  - first:
+      213: -4660231093719118015
+    second: Player_Rescatista_51
+  - first:
+      213: -4382979103633413893
+    second: Player_Rescatista_52
+  - first:
+      213: 6123889796397795438
+    second: Player_Rescatista_53
+  - first:
+      213: 7238943274655247247
+    second: Player_Rescatista_54
+  - first:
+      213: 8661070476292044265
+    second: Player_Rescatista_55
+  - first:
+      213: 8729715172740715450
+    second: Player_Rescatista_56
+  - first:
+      213: 8774584914137234323
+    second: Player_Rescatista_57
+  - first:
+      213: 4414936015265462794
+    second: Player_Rescatista_58
+  - first:
+      213: 3297025346385491358
+    second: Player_Rescatista_59
+  - first:
+      213: -3538907208948780089
+    second: Player_Rescatista_60
+  - first:
+      213: 381921997741422527
+    second: Player_Rescatista_61
+  - first:
+      213: -1144002071929870397
+    second: Player_Rescatista_62
+  - first:
+      213: -8149926298965728901
+    second: Player_Rescatista_63
+  - first:
+      213: 5343496121799140226
+    second: Player_Rescatista_64
+  - first:
+      213: -1682174781049842737
+    second: Player_Rescatista_65
+  - first:
+      213: 1008065437801429107
+    second: Player_Rescatista_66
+  - first:
+      213: 2045180466922272307
+    second: Player_Rescatista_67
+  - first:
+      213: -4925549263208615275
+    second: Player_Rescatista_68
+  - first:
+      213: -8007921884915772210
+    second: Player_Rescatista_69
+  - first:
+      213: 2503745473673222943
+    second: Player_Rescatista_70
+  - first:
+      213: 3319186261558763338
+    second: Player_Rescatista_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Rescatista_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7041f1d8e0c1146988f1756b46f0fd
+      internalID: 6201445940408411993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244f1ba6064bdbd42936f68934f9cdea
+      internalID: 3962274574235592056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb95d904acff141a159e5ae282aecd
+      internalID: 6485657081461321062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf87919d99d554cbde36b2457d0e12
+      internalID: 7747342544617087234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba617613da35ec4a8c1aee57d2ad58b
+      internalID: 8037507873208736072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368691f673a5d04a87bfb7cfbf70d16
+      internalID: 907375824527964449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7f550fd34c7b4e90d737528628591
+      internalID: -6934986640675389459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3221ebefd9ba9d04f8b00e3da2fc8e47
+      internalID: -2561742589127023193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c27861c1c987b488d650dd21a63616
+      internalID: -7250857076770954641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568945ec393fd5c40a3b0db271677544
+      internalID: 5870437714873084225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a762a52a3de0d749a2313ffade5d506
+      internalID: 737402953676051106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5154c3a0de4a7f4da4d0ba4f41a3a5a
+      internalID: -8355944548403795848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639925a9140b5924bb1b8ee8ff5860f7
+      internalID: 3990477161946476582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f21fc57de75041b10f53003435f5e
+      internalID: -2471118490727063748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daecbab0fedf2c42b3687bee735d672
+      internalID: -4291297269780322513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 765
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d792b03279f1448b3416585204dd54
+      internalID: -6836292205432918934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6941f8a3b432d4bb1d459b72ef9cd2
+      internalID: -6915986239602653407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021f4b9698de54408d0c61a3a0e88aa
+      internalID: -6064618065745209697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ebdc2e2d717f147afc2fb9110b108e
+      internalID: 2917307839368138230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b61366e0f20a847a94bf50343c3a8a
+      internalID: 2915398772572562085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a880d2dccbab478bb6377fcfd23bd
+      internalID: 5520823868974142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fca571fe2b6b45bdf0703b50b04b4
+      internalID: 569643158096127993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c400c3be373f843a3734e7adeb7096
+      internalID: 5576640283815824814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 680
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5b593262c46047b4ff253c0acb030
+      internalID: 5207943545311570442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978fd7759ff6ba94b8261baf55f44dd9
+      internalID: 998799120906234657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06544d8faafd3804cbe416b8fa7d713d
+      internalID: 8133526768101885332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0cf86348262045b4c779935ed9553
+      internalID: -9097240924224763492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc6412ee06f62940b2254675766e906
+      internalID: -3920892623235784556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b7293729139c4d858498664a9d7c9
+      internalID: 2825468406368898394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacca83dc1a618e4f8e9b4f2bf4127ee
+      internalID: 1838377167898789634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f9e6466c5ade44a6c05baa5a919a2
+      internalID: -8273986814071207967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 595
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099af325a79b0fb45be6c4be5cc996ed
+      internalID: 5627562136940295616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc291c6b92c123b47811200bb4a5738d
+      internalID: -3890141335784999329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf20106178dc744ab93d0a5aa6d4763
+      internalID: -4446877311060734861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c16c4460dd494fbc9ea9182edf7c9
+      internalID: 3404259825396234581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f3107da181754c988910df34e14d9
+      internalID: -4299007770177851333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ffb5c8ea5f0a94bb79f894727f41d8
+      internalID: 8780136074812899483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85228fc43b21518408d858055e9d5b9d
+      internalID: 3309422392382309922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019062f7f5e51424da42ebf1250a11a7
+      internalID: -5922370176632107930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 510
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d274e041e7243848a58437eb8402b23
+      internalID: -2165268091614435245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe9e8f188a2f17429ab3114defcc60b
+      internalID: 2447733760695809361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a4b495b1bb3584e9a2dfb5ceceb56c
+      internalID: 6461928005487684466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44758f5d29e3ba34db6b0544464539f2
+      internalID: -5943322392085590021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03012c5a4de6a5e4dad46b5d61a5b596
+      internalID: 2415856803679789249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3edb9e2c2eac2943b9ca6607301a663
+      internalID: -7475158911607668594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aab0607be7e5144954c03a148c7373
+      internalID: 5426984937236111178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a438eb8603904fac17b13d9e94573
+      internalID: -255152305274225866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4493d5dc6873404aabd8657d6a98365
+      internalID: -4918790514877125754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974fb142b72acd4c86e7080a60dc6d8
+      internalID: -2380001612459646208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c680ac602b2add49bda381abfe022f9
+      internalID: 9134049485165379802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846e178dcd8ffe48adb05c31e979870
+      internalID: 6988277138184643145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94cdc61e38db154fb2d07ed64f54f2a
+      internalID: -4660231093719118015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051848a9211124140aa341d756d094c4
+      internalID: -4382979103633413893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc38709f5a83244fae9eccb34dbda93
+      internalID: 6123889796397795438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce880a12a54b4f242bfc22fb830d3d29
+      internalID: 7238943274655247247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4adecc4e0bd654387efb2266a7b62b
+      internalID: 8661070476292044265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4988f03b58432c4986b914bc1d84d3a
+      internalID: 8729715172740715450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc8d67be397588439b55cf4059347d9
+      internalID: 8774584914137234323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68f406bc79c9b448375701bcf170f8
+      internalID: 4414936015265462794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c65f3ec4324144b321bec98c11ec2
+      internalID: 3297025346385491358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35deec48fc361db4eba09e0ae36d1f4b
+      internalID: -3538907208948780089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b325b8ca52904a9d1d9e3b1f32d76
+      internalID: 381921997741422527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcf05d937454946b490178d209d1ca
+      internalID: -1144002071929870397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a801465202f64cbebc78dd8496ca6
+      internalID: -8149926298965728901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee486534591eae419522db09b86c612
+      internalID: 5343496121799140226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f208d97f502de4f83e39c820b1a0d2
+      internalID: -1682174781049842737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 85
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c151463f003dd44fa16972edca09c59
+      internalID: 1008065437801429107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc0c2a8e568748459986fd456ea7e3b
+      internalID: 2045180466922272307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7099d2fd41f3c469657dad35b53bcd
+      internalID: -4925549263208615275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1daeab63aefe84c8d1ebd829acfc49
+      internalID: -8007921884915772210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66b15c2b7255d4c8b5f5049d34bc00
+      internalID: 2503745473673222943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rescatista_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf8047ba839bd4db11fd0921c24d41
+      internalID: 3319186261558763338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f6d6d0aea75efa40a8f0932abf0fa39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player_Rescatista_0: 6201445940408411993
+      Player_Rescatista_1: 3962274574235592056
+      Player_Rescatista_10: 737402953676051106
+      Player_Rescatista_11: -8355944548403795848
+      Player_Rescatista_12: 3990477161946476582
+      Player_Rescatista_13: -2471118490727063748
+      Player_Rescatista_14: -4291297269780322513
+      Player_Rescatista_15: -6836292205432918934
+      Player_Rescatista_16: -6915986239602653407
+      Player_Rescatista_17: -6064618065745209697
+      Player_Rescatista_18: 2917307839368138230
+      Player_Rescatista_19: 2915398772572562085
+      Player_Rescatista_2: 6485657081461321062
+      Player_Rescatista_20: 5520823868974142063
+      Player_Rescatista_21: 569643158096127993
+      Player_Rescatista_22: 5576640283815824814
+      Player_Rescatista_23: 5207943545311570442
+      Player_Rescatista_24: 998799120906234657
+      Player_Rescatista_25: 8133526768101885332
+      Player_Rescatista_26: -9097240924224763492
+      Player_Rescatista_27: -3920892623235784556
+      Player_Rescatista_28: 2825468406368898394
+      Player_Rescatista_29: 1838377167898789634
+      Player_Rescatista_3: 7747342544617087234
+      Player_Rescatista_30: -8273986814071207967
+      Player_Rescatista_31: 5627562136940295616
+      Player_Rescatista_32: -3890141335784999329
+      Player_Rescatista_33: -4446877311060734861
+      Player_Rescatista_34: 3404259825396234581
+      Player_Rescatista_35: -4299007770177851333
+      Player_Rescatista_36: 8780136074812899483
+      Player_Rescatista_37: 3309422392382309922
+      Player_Rescatista_38: -5922370176632107930
+      Player_Rescatista_39: -2165268091614435245
+      Player_Rescatista_4: 8037507873208736072
+      Player_Rescatista_40: 2447733760695809361
+      Player_Rescatista_41: 6461928005487684466
+      Player_Rescatista_42: -5943322392085590021
+      Player_Rescatista_43: 2415856803679789249
+      Player_Rescatista_44: -7475158911607668594
+      Player_Rescatista_45: 5426984937236111178
+      Player_Rescatista_46: -255152305274225866
+      Player_Rescatista_47: -4918790514877125754
+      Player_Rescatista_48: -2380001612459646208
+      Player_Rescatista_49: 9134049485165379802
+      Player_Rescatista_5: 907375824527964449
+      Player_Rescatista_50: 6988277138184643145
+      Player_Rescatista_51: -4660231093719118015
+      Player_Rescatista_52: -4382979103633413893
+      Player_Rescatista_53: 6123889796397795438
+      Player_Rescatista_54: 7238943274655247247
+      Player_Rescatista_55: 8661070476292044265
+      Player_Rescatista_56: 8729715172740715450
+      Player_Rescatista_57: 8774584914137234323
+      Player_Rescatista_58: 4414936015265462794
+      Player_Rescatista_59: 3297025346385491358
+      Player_Rescatista_6: -6934986640675389459
+      Player_Rescatista_60: -3538907208948780089
+      Player_Rescatista_61: 381921997741422527
+      Player_Rescatista_62: -1144002071929870397
+      Player_Rescatista_63: -8149926298965728901
+      Player_Rescatista_64: 5343496121799140226
+      Player_Rescatista_65: -1682174781049842737
+      Player_Rescatista_66: 1008065437801429107
+      Player_Rescatista_67: 2045180466922272307
+      Player_Rescatista_68: -4925549263208615275
+      Player_Rescatista_69: -8007921884915772210
+      Player_Rescatista_7: -2561742589127023193
+      Player_Rescatista_70: 2503745473673222943
+      Player_Rescatista_71: 3319186261558763338
+      Player_Rescatista_8: -7250857076770954641
+      Player_Rescatista_9: 5870437714873084225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

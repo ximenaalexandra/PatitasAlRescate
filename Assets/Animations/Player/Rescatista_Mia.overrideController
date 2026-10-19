@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rescatista_Mia
+  m_Controller: {fileID: 9100000, guid: f5ef349171d3bc04e9b35896af5d1969, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e3a0d5d720c69bb4687b6fb5832e03b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1e25ed773b4f1df4fb51a8ce1e586927, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b8aa91d09983b2c408a0a2dedbfe09b2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 65bf0db5178ef554d99f70f341ca46fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: beb0ced36cfb7b84dac71ef517c06304, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd7ab39f671f98944b5dd6f2061ac69a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c85601eb7180db347bb1448d278c349f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 410f379242002b047b21a0223867ad77, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4458cb2c03d79d8499e53538abdb7359, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a29eecf5d5ec3aa4daafa3a76c6ca63d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2e36962ad491db941aa8bc9505112f18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e53e04997499ae84d84a2976b61aeef1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cc8c4828ed5f7434aaf5e0556e95d10e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cde500ccf157ce341a4fcf2d86566b68, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af324065219b6f04f9b053bb397c12ab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9a7f168062ff73242a282a64d595997e, type: 2}
